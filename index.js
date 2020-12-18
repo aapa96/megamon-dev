@@ -4,6 +4,6 @@ const MegamonStatus = () => {
 }
 
 module.exports = {
-    utils,
+    utils:utils,
     MegamonStatus
 }
